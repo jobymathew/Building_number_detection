@@ -28,7 +28,7 @@ return edges
 ```
 
 2. Finding the contours: The image will have a lot of noise contours along with our digits as we find the
-contours of the preprocessed image. However, we only need the contours of the digits. They were removed by defining very specific criterias.
+contours of the preprocessed image. However, we only need the contours of the digits. The noise was removed by defining very specific criterias.
 
 ## Accuracy of the model
 
