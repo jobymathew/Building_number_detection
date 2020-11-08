@@ -42,39 +42,39 @@ The accuracies obtained on cross validation are as shown:
 
 1. Image 1
 
-  <img src="https://github.com/jobymathew/Building_number_detection/blob/main/Validation_results/DetectedArea01.jpg" width="200">
+      <img src="https://github.com/jobymathew/Building_number_detection/blob/main/Validation_results/DetectedArea01.jpg" width="200">
 
-  Prediction of the model: 43
+      Prediction of the model: 43
 
 2. Image 2
 
-  <img src="https://github.com/jobymathew/Building_number_detection/blob/main/Validation_results/DetectedArea02.jpg" width="200">
+      <img src="https://github.com/jobymathew/Building_number_detection/blob/main/Validation_results/DetectedArea02.jpg" width="200">
 
-  Prediction of the model: 35
+      Prediction of the model: 35
 
 3. Image 3
 
-  <img src="https://github.com/jobymathew/Building_number_detection/blob/main/Validation_results/DetectedArea03.jpg" width="200">
+      <img src="https://github.com/jobymathew/Building_number_detection/blob/main/Validation_results/DetectedArea03.jpg" width="200">
 
-  Prediction of the model: 94
+      Prediction of the model: 94
 
 4. Image 4
 
-  <img src="https://github.com/jobymathew/Building_number_detection/blob/main/Validation_results/DetectedArea04.jpg" width="200">
+      <img src="https://github.com/jobymathew/Building_number_detection/blob/main/Validation_results/DetectedArea04.jpg" width="200">
 
-  Prediction of the model: 302
+      Prediction of the model: 302
 
 5. Image 5
 
-  <img src="https://github.com/jobymathew/Building_number_detection/blob/main/Validation_results/DetectedArea05.jpg" width="200">
+      <img src="https://github.com/jobymathew/Building_number_detection/blob/main/Validation_results/DetectedArea05.jpg" width="200">
 
-  Prediction of the model: 70
+      Prediction of the model: 70
 
 6. Image 6
 
-  <img src="https://github.com/jobymathew/Building_number_detection/blob/main/Validation_results/DetectedArea06.jpg" width="200">
+      <img src="https://github.com/jobymathew/Building_number_detection/blob/main/Validation_results/DetectedArea06.jpg" width="200">
 
-  Prediction of the model: 26
+      Prediction of the model: 26
 
 ## Accruacy of the model: 84.6%
 
