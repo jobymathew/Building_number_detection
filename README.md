@@ -1,5 +1,7 @@
 # Building Number Detection
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This project involves some image processing operations to extract digits from an image with a house number
 and predicting those digits extracted.
 
@@ -38,39 +40,39 @@ The accuracies obtained on cross validation are as shown:
 
 ## Results obtained on the Validation Data
 
-Image 1
+1. Image 1
 
-![Area1](https://github.com/jobymathew/Building_number_detection/blob/main/Validation_results/DetectedArea01.jpg?raw=True)
+<img src="https://github.com/jobymathew/Building_number_detection/blob/main/Validation_results/DetectedArea01.jpg" width="200">
 
 Prediction of the model: 43
 
-Image 2
+2. Image 2
 
-![Area1](https://github.com/jobymathew/Building_number_detection/blob/main/Validation_results/DetectedArea02.jpg?raw=True)
+<img src="https://github.com/jobymathew/Building_number_detection/blob/main/Validation_results/DetectedArea02.jpg" width="200">
 
 Prediction of the model: 35
 
-Image 3
+3. Image 3
 
-![Area1](https://github.com/jobymathew/Building_number_detection/blob/main/Validation_results/DetectedArea03.jpg?raw=True)
+<img src="https://github.com/jobymathew/Building_number_detection/blob/main/Validation_results/DetectedArea03.jpg" width="200">
 
 Prediction of the model: 94
 
-Image 4
+4. Image 4
 
-![Area1](https://github.com/jobymathew/Building_number_detection/blob/main/Validation_results/DetectedArea04.jpg?raw=True)
+<img src="https://github.com/jobymathew/Building_number_detection/blob/main/Validation_results/DetectedArea04.jpg" width="200">
 
 Prediction of the model: 302
 
-Image 5
+5. Image 5
 
-![Area1](https://github.com/jobymathew/Building_number_detection/blob/main/Validation_results/DetectedArea05.jpg?raw=True)
+<img src="https://github.com/jobymathew/Building_number_detection/blob/main/Validation_results/DetectedArea05.jpg" width="200">
 
 Prediction of the model: 70
 
-Image 6
+6. Image 6
 
-![Area1](https://github.com/jobymathew/Building_number_detection/blob/main/Validation_results/DetectedArea06.jpg?raw=True)
+<img src="https://github.com/jobymathew/Building_number_detection/blob/main/Validation_results/DetectedArea06.jpg" width="200">
 
 Prediction of the model: 26
 
