@@ -20,13 +20,13 @@ OpenCV 3.10
       ```bash
         # Function to pre process the image
        def preprocess(img):
-       # Converting to gray scale
-       grayimg = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-       # Blurring the image
-       blur = cv2.blur(grayimg, (3,3))
-       # Getting the edges
-       edges = cv2.Canny(blur, 180, 255)
-       return edges
+             # Converting to gray scale
+             grayimg = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+             # Blurring the image
+             blur = cv2.blur(grayimg, (3,3))
+             # Getting the edges
+             edges = cv2.Canny(blur, 180, 255)
+             return edges
      ```
 
 2. Finding the contours: The image will have a lot of noise contours along with our digits as we find the
