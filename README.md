@@ -1,4 +1,4 @@
-# Building_number_detection
+# Building Number Detection
 
 All the details regarding the project can be found in the report.pdf in the repository.
 
@@ -6,7 +6,7 @@ All the details regarding the project can be found in the report.pdf in the repo
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) 2020 Joby Mathew
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
