@@ -46,31 +46,31 @@ Prediction of the model: 43
 
 Image 2
 
-![Area1](https://github.com/jobymathew/Building_number_detection/blob/main/Validation_results/DetectedArea01.jpg?raw=True)
+![Area1](https://github.com/jobymathew/Building_number_detection/blob/main/Validation_results/DetectedArea02.jpg?raw=True)
 
 Prediction of the model: 35
 
 Image 3
 
-![Area1](https://github.com/jobymathew/Building_number_detection/blob/main/Validation_results/DetectedArea02.jpg?raw=True)
+![Area1](https://github.com/jobymathew/Building_number_detection/blob/main/Validation_results/DetectedArea03.jpg?raw=True)
 
 Prediction of the model: 94
 
 Image 4
 
-![Area1](https://github.com/jobymathew/Building_number_detection/blob/main/Validation_results/DetectedArea03.jpg?raw=True)
+![Area1](https://github.com/jobymathew/Building_number_detection/blob/main/Validation_results/DetectedArea04.jpg?raw=True)
 
 Prediction of the model: 302
 
 Image 5
 
-![Area1](https://github.com/jobymathew/Building_number_detection/blob/main/Validation_results/DetectedArea04.jpg?raw=True)
+![Area1](https://github.com/jobymathew/Building_number_detection/blob/main/Validation_results/DetectedArea05.jpg?raw=True)
 
 Prediction of the model: 70
 
 Image 6
 
-![Area1](https://github.com/jobymathew/Building_number_detection/blob/main/Validation_results/DetectedArea05.jpg?raw=True)
+![Area1](https://github.com/jobymathew/Building_number_detection/blob/main/Validation_results/DetectedArea06.jpg?raw=True)
 
 Prediction of the model: 26
 
